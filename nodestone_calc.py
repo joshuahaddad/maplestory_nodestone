@@ -13,7 +13,7 @@ arrays = {label: [] for label in labels}
 
 
 ### PARAMETERS TO SET ###
-specify_target = True
+specify_target = False
 print("Finding solution for", sys.argv[2], "occurrences of each skill")
 num_desired = int(sys.argv[2])
 
